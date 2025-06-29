@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+.auto {
+  width: 400px;
+  min-height: 500px;
+  max-height: fit-content;
+  padding: 20px;
+  border: 2px dashed rgb(234, 12, 49);
+  margin: 30px;
+  background-color: rgb(161, 161, 244);
+}
+
+.image {
+  width: 360px;
+  height: 250px;
+  margin-bottom: 50px;
+}
+
+#audi {
+  border: 2px solid red;
+}
+
+#mersedes {
+  border: 2px solid blue;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: purple;
+}
+
+.bmw_title {
+  color: blue;
+}
